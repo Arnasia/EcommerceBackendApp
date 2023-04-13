@@ -23,7 +23,7 @@ This application allows users to interacty with the products,tags,categories, pr
 
 The following video displays the web application's backend functionality:
 
-![This is a mock-up of the live Application](file:///Users/arnasiajackson/Downloads/Untitled_%20Apr%203%202023%2012_27%20AM%20(1).webm)
+![This is a mock-up of the live Application](./Assets/EcommerceMockvid.webm)
 
 ## Usage
 
